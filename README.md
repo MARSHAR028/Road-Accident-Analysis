@@ -1,9 +1,9 @@
 # Road-Accident-Analysis
 
-#Overview
+#Overview:
 This project aims to analyze road accident data to identify patterns, trends, and contributing factors that impact road safety. The analysis is performed using Microsoft Excel, leveraging its data processing and visualization capabilities to provide actionable insights.
 
-#Project Objectives
+#Project Objectives:
 •	Data Collection: Compile road accident data from reliable sources.
 •	Data Cleaning: Ensure the dataset is accurate, consistent, and ready for analysis.
 •	Analysis: Identify key trends, high-risk areas, and contributing factors using Excel tools such as Pivot Tables, charts, and formulas.
